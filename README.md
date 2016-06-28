@@ -1,0 +1,2 @@
+# IKJPlayerByMjj
+简单的集成了现在比较热门的IKJPlayer，包里面的IJKMediaFramework.framework可以直接在工程中使用的
